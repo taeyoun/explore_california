@@ -9,5 +9,9 @@ log/*.log.[0-9]
 assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
+/explore_california/assets/images/*.gif
+assets/images/*.jpg
+.project
+
 
 # question: would log/archive/access.log be ignored? No.
